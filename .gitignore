@@ -1,0 +1,8 @@
+bin/
+obj/
+salida/
+.vs/
+.idea/
+*.user
+*.exe
+*.zip
